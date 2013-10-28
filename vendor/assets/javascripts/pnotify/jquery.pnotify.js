@@ -61,7 +61,7 @@
 				info_icon: "glyphicon glyphicon-info-sign",
 				success: "alert-success",
 				success_icon: "glyphicon glyphicon-ok-sign",
-				error: "alert-error",
+				error: "alert-danger",
 				error_icon: "glyphicon glyphicon-warning-sign",
 				closer: "glyphicon glyphicon-remove",
 				pin_up: "glyphicon glyphicon-pause",
